@@ -4,8 +4,7 @@
 The Inc. 5000 lists the 5,000 fastest-growing private companies in the United States. The list has been created by Inc. magazine every year since 1982. Inc. 5000 list honours corporate growth, innovation, and achievement. The list represents companies that have driven rapid revenue growth while navigating inflationary pressure, the rising costs of capital, and seemingly intractable hiring challenges.
 
 ## Background:
-A dataset containing information about each company on the INC 5000 list in 2019. Fields include the company name, industry, founding year, website, and location, as well as 2019 revenue, % growth, number of workers (year-over-year), and the number of years on the list.
-
+A dataset containing information about each company on the INC 5000 list in 2019. Fields include the company name, industry, founding year, website, and location, as well as 2019 revenue, % growth, number of workers (year-over-year), and the number of years on the list. The complete analysis is performed using **Tableau**.
 ## Methodology:
 Data Collection | Data Cleaning & organisation | Data Modeling | Data Analysis | Interpretation
 
