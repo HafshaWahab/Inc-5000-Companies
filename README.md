@@ -24,4 +24,10 @@ Data Collection | Data Cleaning & organisation | Data Modeling | Data Analysis |
 7. Top 1000 - Winner State (The most frequent state appearing in the Top 1000 values of companies) 
 8. Do we have any company which was founded last year and ranked under Top 100 
 
+## Visualisations & Insights
 [Dashboard 1](https://public.tableau.com/views/Inc5000CompaniesFinal/Dashboard4?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
+[Dashboard 2](https://public.tableau.com/views/Inc5000CompaniesFinal/Dashboard2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
+1. There are 3 top industries *Security*, *Health*, and *Logistics & Transportations* generationg average revenue 123.7, 109.3 and 101.3 millions respevtively.
+2. Most represented industries are Business Products & Services, Advertisement & Marketing & Software
