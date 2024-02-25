@@ -29,5 +29,15 @@ Data Collection | Data Cleaning & organisation | Data Modeling | Data Analysis |
 
 [Dashboard 2](https://public.tableau.com/views/Inc5000CompaniesFinal/Dashboard2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-1. There are 3 top industries *Security*, *Health*, and *Logistics & Transportations* generationg average revenue 123.7, 109.3 and 101.3 millions respevtively.
-2. Most represented industries are Business Products & Services, Advertisement & Marketing & Software
+1. There are 3 top industries __Security__ , __Health__, and __Logistics & Transportations__ generationg average revenue __123.7, 109.3 and 101.3 millions__ respevtively.
+2. Most represented industries are __Business Products & Services, Advertisement & Marketing & Software__.
+3. __Southeast__ region is leading in having the top 3 industries in its region.
+4. __Security industry__ has the largest average growth rate.
+5. __Allied UNiversal__ has shown the highest increase in employment.
+6. __Tier 4 Group__ has seen 10.33% increase in growth rate after laying off the employess.
+7. __California, New York and Texas__ are the top 3 states which have positioned top 1000 ranking.
+8. Since Inc 5000 ranking is done on the basis of 3 years' performance, so in our analysis we found that in year 2015 there were 131 companies founded and surprisingly there wer 24 companies in top 100. We also found that __Freestar__ (an advertisement & Marketing company) was not only in top 100 but it also ranked 1st position in the Inc 5000 ranking for the year 2019.
+
+## Suggestions
+* Clients should explore to build their business in the fields of Security, Health sector, and Software technologies.
+* Southeast and West regions are the hubs for business growth, one could explore these areas.
