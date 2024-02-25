@@ -22,7 +22,7 @@ Data Collection | Data Cleaning & organisation | Data Modeling | Data Analysis |
 5. Which companies had the largest increase in staff/new hires? (Top 5 and Bottom 5 Companies) 
 6. Did any company increase revenue while reducing staff?
 7. Top 1000 - Winner State (The most frequent state appearing in the Top 1000 values of companies) 
-8. Do we have any company which was founded last year and ranked under Top 100 
+8. Do we have any company which was founded last year and ranked under Top 100? 
 
 ## Visualisations & Insights
 [Dashboard 1](https://public.tableau.com/views/Inc5000CompaniesDataAnalysis2019/Dashboard12?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
