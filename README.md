@@ -1,4 +1,4 @@
-![Inc5000_PrimaryLogo](https://github.com/HafshaWahab/Inc-5000-Companies/assets/152807534/68c9a89a-b95f-4f6d-ad2a-ef07b0c9234f)
+![inc-5000-large](https://github.com/HafshaWahab/Inc-5000-Companies/assets/152807534/4f263ba6-4e0b-4c27-b777-b2707cb02540)
 
 # INC 5000 COMPANIES (2019)
 The Inc. 5000 lists the 5,000 fastest-growing private companies in the United States. The list has been created by Inc. magazine every year since 1982. Inc. 5000 list honours corporate growth, innovation, and achievement. The list represents companies that have driven rapid revenue growth while navigating inflationary pressure, the rising costs of capital, and seemingly intractable hiring challenges.
